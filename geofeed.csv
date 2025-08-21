@@ -2,7 +2,7 @@
 # Feed for AS397545
 #
 # This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02(draft02)
-# Last modified: Thu, 21 Aug 2025 18:56:54 GMT
+# Last modified - Thu, 21 Aug 2025 18:56:54 GMT
 # Number of records: 15
 #Prefix,Country,Region,City,PostalCode
 38.20.192.0/21,CA,CA-NS,Halifax,B3K 3W7
